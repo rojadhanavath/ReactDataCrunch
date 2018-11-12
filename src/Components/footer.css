@@ -1,0 +1,26 @@
+.app-footer{
+  display: flex;
+  flex-wrap: wrap;
+}
+.app-footer > div {
+
+  margin: 10px;
+  text-align: center;
+
+  font-size: 2em;
+}
+h2{
+  color: #FF4500;
+  font-size: 1em;
+}
+p{
+color: black;
+font-size: 0.5em;
+font-weight: bold;
+
+
+}
+.vl {
+    border-left: 2px solid black;
+    height: 230px;
+}
